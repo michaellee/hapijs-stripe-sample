@@ -1,0 +1,19 @@
+{
+  "name": "hapijs-stripe-sample",
+  "version": "0.0.1",
+  "description": "REST api for Ember.js app for Stripe Checkout integration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaellee/hapijs-stripe-sample.git"
+  },
+  "author": "Michael Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaellee/hapijs-stripe-sample/issues"
+  },
+  "homepage": "https://github.com/michaellee/hapijs-stripe-sample#readme",
+  "dependencies": {
+    "hapi": "^15.2.0"
+  }
+}
